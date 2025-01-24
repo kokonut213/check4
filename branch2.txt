@@ -1,1 +1,1 @@
-first file in branch2
+conflicting change in branch2
